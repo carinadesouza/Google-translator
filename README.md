@@ -19,4 +19,13 @@ This project is a Python-powered translator that allows you to translate words b
 Ensure you have Python installed and that the `googletrans` library is available in your environment.
 
 ```bash
-pip install googletrans==4.0.0-rc1
+pip install googletrans==4.0.0-rc1  **
+
+## 🔧 Installation
+
+Clone the repository to your local machine:
+
+```bash
+git clone https://github.com/YourUsername/Universal-Translator-Bot.git
+cd Universal-Translator-Bot
+
